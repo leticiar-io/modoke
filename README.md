@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Modoke - Aprenda sobre acessibilidade de forma rápida e divertida!
 
-## Getting Started
+Este projeto faz parte da disciplina Projeto Integrado I, do 3° semestre do curso de Sistemas e Mídias Digitais da UFC. O **Modoke** é uma plataforma desenvolvida para ajudar desenvolvedores a aprenderem sobre acessibilidade web de forma rápida, divertida e prática. O objetivo é tornar a web mais inclusiva para todos.
 
-First, run the development server:
+## Tecnologias Utilizadas
+
+Até o momento, o projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **Next.js**
+- **TailwindCSS**
+- **Shadcn UI**
+- **Radix**
+
+O projeto ainda está em construção, e novas funcionalidades e melhorias estão sendo adicionadas continuamente.
+
+## Como Iniciar
+
+### 1. Instalar Dependências
+
+Primeiro, instale as dependências necessárias:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+# ou
+yarn install
+# ou
+pnpm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Iniciar o Servidor de Desenvolvimento
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Após instalar as dependências, inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+# ou
+yarn dev
+# ou
+pnpm dev
+# ou
+bun dev
